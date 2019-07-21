@@ -17,3 +17,7 @@ var divide = (a, b) =>{
   var result = a / b;
   return result;
 }
+
+var inc = (n) =>{
+  return n += 1;
+}
