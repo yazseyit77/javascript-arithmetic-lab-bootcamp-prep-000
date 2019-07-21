@@ -31,7 +31,8 @@ var makeInt = (n) =>{
 }
 
 var makeInt = (n) =>{
-  return parseInt(n, 10);
+  var integer = parseInt(n, 10);
+  return integer;
 }
 
 var makeInt = (n) =>{
