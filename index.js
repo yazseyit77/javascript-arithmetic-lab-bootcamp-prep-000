@@ -33,3 +33,7 @@ var makeInt = (n) =>{
 var makeInt = (n) =>{
   return parseInt(n, 10);
 }
+
+var makeInt = (n) =>{
+  return parseInt('nonsense!', 10);
+}
