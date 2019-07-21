@@ -12,3 +12,8 @@ var multiply = (a, b) =>{
   var result = a * b;
   return result;
 }
+
+var divide = (a, b) =>{
+  var result = a / b;
+  return result;
+}
