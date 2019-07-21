@@ -29,12 +29,3 @@ var dec = (n) =>{
 var makeInt = (n) =>{
   return parseInt('n');
 }
-
-var makeInt = (n) =>{
-  var integer = parseInt('n', 10);
-  return integer;
-}
-
-var makeInt = (n) =>{
-  return parseInt('nonsense!', 10);
-}
