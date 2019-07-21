@@ -27,7 +27,7 @@ var dec = (n) =>{
 }
 
 var makeInt = (n) =>{
-  return parseInt(n);
+  return parseInt('279');
 }
 
 var makeInt = (n) =>{
