@@ -29,3 +29,7 @@ var dec = (n) =>{
 var makeInt = (n) =>{
   return parseInt(n);
 }
+
+var makeInt = (n, 10) =>{
+  return parseInt(n, 10);
+}
